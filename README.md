@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Liba</h1><h1 align="center">Hi 👋, I'm Liba</h1>
+<h1 align="center">Hi 👋, I'm Liba</h1>
 <h3 align="center">A passionate web developer</h3>
 
 - 🔭 I’m currently working on [Wanderlust](https://github.com/liba6/travel-final-project)
