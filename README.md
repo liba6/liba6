@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liba</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on [Skill-Swap](https://github.com/liba6/skill-swap)
 
 - 👨‍💻 All of my projects are available at [https://github.com/liba6](https://github.com/liba6)
 
